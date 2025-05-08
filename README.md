@@ -30,7 +30,7 @@ This coding technique allows each circular shape to be animated independently by
 *Source: p5.js Transform Example*
 
 **Example Code:**  
-[p5.js rotate + push/pop example](https://p5js.org/examples/transform-rotate.html)
+[p5.js rotate + push/pop example](https://p5js.org/reference/p5/rotate/)
 
 ```js
 function draw() {
